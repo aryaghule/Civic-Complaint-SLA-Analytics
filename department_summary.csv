@@ -1,0 +1,6 @@
+department,total_complaints,open_complaints,resolved_complaints,avg_response_hours,avg_resolution_hours,response_sla_compliance,resolution_sla_compliance
+Drainage,3,3,0,0.5,,33.33333333333333,0.0
+Electrical,2,2,0,22.0,,0.0,0.0
+Roads,3,2,1,48.0,94.0,0.0,0.0
+Sanitation,3,3,0,3.0,,33.33333333333333,0.0
+Water,3,2,1,25.5,48.0,33.33333333333333,33.33333333333333
